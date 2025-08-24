@@ -119,6 +119,7 @@ ul li span:hover {
   .row {
     flex-direction: column;   /* stack input and button */
     align-items: stretch;
+      gap: 15px;
   }
 
   .row button {
@@ -127,6 +128,7 @@ ul li span:hover {
   }
 }
   
+
 
 
 
