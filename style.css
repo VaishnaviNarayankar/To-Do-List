@@ -36,7 +36,7 @@
 }
 
 .row {
-    width: 90%;
+    width: 100%;
     display: flex;
     align-items: center;
     gap: 10px;
@@ -44,7 +44,6 @@
     padding-left: 20px;
     margin-bottom: 25px;
     background: #edeef0;
-    white-space: nowrap;
 }
 
 input {
@@ -130,6 +129,7 @@ ul li span:hover {
     text-align: center;
   }
 }
+
 
 
 
