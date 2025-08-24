@@ -120,18 +120,10 @@ ul li span:hover {
 @media (max-width: 400px) {
   .row {
     flex-direction: row;   /* stack input and button */
-    
     gap: 15px;
   }
 
-  .row button {
-    width: 100%;             /* button fills width on small screens */
-    text-align: center;
-  }
-}
-
-
-
+  
 
 
 
