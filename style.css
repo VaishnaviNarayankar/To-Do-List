@@ -55,6 +55,7 @@ input {
 }
 
 button {
+    width: 90%;
     border: none;
     outline: none;
     padding: 16px 50px;
@@ -113,6 +114,7 @@ ul li span {
 ul li span:hover {
     background: #edeef0 ;
 }
+
 
 
 
