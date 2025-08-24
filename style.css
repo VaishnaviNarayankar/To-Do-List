@@ -14,7 +14,7 @@
 }
 
 .todoList {
-    width: 100%;
+    width: 90%;
     max-width: 540px;
     background: #fff;
     margin: 100px auto 20px;
@@ -113,6 +113,7 @@ ul li span {
 ul li span:hover {
     background: #edeef0 ;
 }
+
 
 
 
