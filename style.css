@@ -46,7 +46,7 @@
     background: #edeef0;
 }
 
-input {
+.row input {
     flex: 1;
     border: none;
     outline: none;
@@ -55,7 +55,7 @@ input {
     font-size: 14px;
 }
 
-button {
+.row button {
     border: none;
     outline: none;
     padding: 16px 25px;
@@ -129,6 +129,7 @@ ul li span:hover {
     text-align: center;
   }
 }
+
 
 
 
