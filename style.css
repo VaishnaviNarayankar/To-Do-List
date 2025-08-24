@@ -113,3 +113,21 @@ ul li span {
 ul li span:hover {
     background: #edeef0 ;
 }
+
+@media (max-width: 600px) {
+  .todo-container {
+    width: 90%;      /* make card fit mobile width */
+    padding: 15px;
+  }
+
+  .input-container input {
+    font-size: 14px;
+  }
+
+  .input-container button {
+    font-size: 14px;
+    padding: 8px 16px;
+  }
+}
+
+
