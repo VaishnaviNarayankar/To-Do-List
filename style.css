@@ -46,7 +46,7 @@
 }
 
 input {
-    flex:1;
+    flex: 1;
     border: none;
     outline: none;
     background: transparent;
@@ -127,6 +127,7 @@ ul li span:hover {
     text-align: center;
   }
 }
+
 
 
 
