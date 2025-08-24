@@ -38,7 +38,7 @@
 .row {
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    gap: 10px;
     border-radius: 30px;
     padding-left: 20px;
     margin-bottom: 25px;
@@ -51,18 +51,19 @@ input {
     outline: none;
     background: transparent;
     padding: 10px;
-    font-weight: 14px;
+    font-size: 14px;
 }
 
 button {
     border: none;
     outline: none;
-    padding: 16px 50px;
+    padding: 16px 25px;
     background: #ff5945;
     color: #fff;
     font-size: 17px;
     cursor: pointer;
     border-radius: 40px;
+    white-space: nowrap;
 
 }
 
@@ -113,6 +114,7 @@ ul li span {
 ul li span:hover {
     background: #edeef0 ;
 }
+
 
 
 
