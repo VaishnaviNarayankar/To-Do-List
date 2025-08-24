@@ -64,6 +64,7 @@ button {
     font-size: 17px;
     cursor: pointer;
     border-radius: 40px;
+    white-space: nowrap;
 
 
 }
@@ -128,6 +129,7 @@ ul li span:hover {
     text-align: center;
   }
 }
+
 
 
 
