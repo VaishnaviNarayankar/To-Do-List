@@ -37,6 +37,7 @@
 
 .row {
     display: flex;
+    gap: 15px;
     align-items: center;
     border-radius: 30px;
     padding-left: 20px;
@@ -128,6 +129,7 @@ ul li span:hover {
   }
 }
   
+
 
 
 
